@@ -6,8 +6,7 @@ CLE2D is a MATLAB GUI tool for 2D curvilinear lineament extraction. It harnesses
 
 Please cite the software as:
 
-Abbassi, B. (2024). CLE2D: Curvilinear Lineament Extraction: Bayesian Optimization of Principal Component Wavelet Analysis and Hysteresis Thresholding. Github. https://github.com/bahmanabbassi/CLE2D
-
+Abbassi, B., Cheng, L.Z., 2024. Curvilinear Lineament Extraction: Bayesian Optimization of Principal Component Wavelet Analysis and Hysteresis Thresholding, Computers & Geosciences, 2024,105768, ISSN 0098-3004, https://doi.org/10.1016/j.cageo.2024.105768
 
 ## **How do I get set up?**
 
